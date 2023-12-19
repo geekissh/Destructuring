@@ -1,0 +1,130 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 8,
+    "passes": 8,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-12-19T06:48:13.512Z",
+    "end": "2023-12-19T06:48:26.478Z",
+    "duration": 12966
+  },
+  "tests": [
+    {
+      "title": "String: uses destructuring to declare five animal sounds",
+      "fullTitle": "index.js String: uses destructuring to declare five animal sounds",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "String: uses destructuring to declare the four traditional animal names",
+      "fullTitle": "index.js String: uses destructuring to declare the four traditional animal names",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "String: uses destructuring to declare the three traditional animal colors",
+      "fullTitle": "index.js String: uses destructuring to declare the three traditional animal colors",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "fullTitle": "index.js Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array: uses destructuring to declare six rainbow color variables using initials",
+      "fullTitle": "index.js Array: uses destructuring to declare six rainbow color variables using initials",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array: uses destructuring to declare Indigo using indg",
+      "fullTitle": "index.js Array: uses destructuring to declare Indigo using indg",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "fullTitle": "index.js Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "fullTitle": "index.js Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "String: uses destructuring to declare five animal sounds",
+      "fullTitle": "index.js String: uses destructuring to declare five animal sounds",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "String: uses destructuring to declare the four traditional animal names",
+      "fullTitle": "index.js String: uses destructuring to declare the four traditional animal names",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "String: uses destructuring to declare the three traditional animal colors",
+      "fullTitle": "index.js String: uses destructuring to declare the three traditional animal colors",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "fullTitle": "index.js Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array: uses destructuring to declare six rainbow color variables using initials",
+      "fullTitle": "index.js Array: uses destructuring to declare six rainbow color variables using initials",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Array: uses destructuring to declare Indigo using indg",
+      "fullTitle": "index.js Array: uses destructuring to declare Indigo using indg",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "fullTitle": "index.js Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "fullTitle": "index.js Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
